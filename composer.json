@@ -1,0 +1,14 @@
+{
+    "require": {
+	"elasticsearch/elasticsearch": "^5.3",
+	"yidas/yii2-bower-asset": "2.0.*",
+	"yiisoft/yii2": ">=2.0.5",
+	"yiisoft/yii2-bootstrap": "*",
+    "yiisoft/yii2-swiftmailer": "*",
+	"ongr/elasticsearch-dsl": "^5.0",
+   	"php-amqplib/php-amqplib": "^2.7"
+	},
+   "autoload": {
+        "psr-4": {"app\\": "project/"}
+   }
+}
